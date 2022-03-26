@@ -9,6 +9,7 @@ calibration.py
 ・Mac OSで作成したので、もしWindowsでエラーが出たらごめんなさい。修正するので内容を教えてください。
 
 ・各種Pythonライブラリのインストールが必要です。
+
     Pythonをインストールしたら、コマンドプロンプトから
 
     pip install numpy
@@ -23,6 +24,7 @@ calibration.py
     によってインストール済のライブラリを確認できます。
 
 ・使い方
+
     コマンドプロンプトで、calibration.pyのあるディレクトリまで移動して
 
     python calibration.py
